@@ -46,7 +46,7 @@ The following steps outline how to create a new SSH key pair that then you will 
 
 1. Sign into the AWS Management Console and open the Amazon EC2 console at https://console.aws.amazon.com/ec2
 
-2. In the upper-right corner of the AWS Management Console, confirm you are in the desired AWS region (e.g., Singapore).
+2. In the upper-right corner of the AWS Management Console, confirm you are in the desired AWS region (e.g., Sydney).
 
 ![](./workshopassets/ConsoleRegion.png)
 

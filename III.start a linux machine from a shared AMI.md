@@ -50,7 +50,7 @@ Under Instance type, click on the drop-down arrow and type c5.large into the sea
 
 9. Select the key pair that you created in the beginning of this lab from the drop-down list under Key pair (login).
 
-![](./workshopassets/EC2SelectKeyPair-2.png)
+![](./workshopassets/EC2SelectKeypair-2.png)
 
 10. Next click on Edit against Network settings. You will be prompted to provide Subnet and Security group details. The security groups will be your firewall rules.
     - Note that the Subnet field can be configured to launch the instance in a specific Availability Zone; while we are keeping the default for this workshop, this gives you control over the location of your machine.

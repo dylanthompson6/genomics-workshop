@@ -1,3 +1,7 @@
+# III. START A LINUX MACHINE FROM A SHARED AMI
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)
+
 # A. LAUNCH THE EC2 DASHBOARD
 1. In the AWS Management Console search bar, type EC2.
 
@@ -206,3 +210,4 @@ For detailed directions on these please have a look at the following links:
 
 PuTTY, Windows Susbsystem for Linux, MacOS-X ssh Client, Linux ssh client
 
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)

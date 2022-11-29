@@ -1,1 +1,1 @@
-# genomics-workshop
+[LINK TO WORKSHOPS](./workshop.md)

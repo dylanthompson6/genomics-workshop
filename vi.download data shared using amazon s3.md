@@ -1,4 +1,6 @@
-# Download Data
+# VI. DOWNLOAD DATA SHARED USING AMAZON S3
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)
 
 # A. AWS CLI COMMANDS FOR S3
 Now that you have access to the AWS CLI, you can use it to download files from an S3 bucket.
@@ -96,5 +98,4 @@ rm -f SRR6327875
 ```
 We are now ready to run some data analyses.
 
-
-
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)

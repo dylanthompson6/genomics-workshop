@@ -1,3 +1,7 @@
+# IV. ATTACH ADDITIONAL STORAGE
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)
+
 # A. CREATE AN EBS VOLUME
 
 1. In the AWS Management Console search bar, type EC2 to navigate to the EC2 Service.
@@ -119,3 +123,5 @@ But we’ll need this device for later, so remember to re-mount it.
 ```
 sudo mount /dev/nvme1n1 /mnt/volume1
 ```
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)

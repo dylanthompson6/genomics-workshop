@@ -1,6 +1,6 @@
-# AWS CLI
+# V. AWS CLI
 
----
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)
 
 # A. INTRODUCTION TO AWS CLI
 The AWS CLI allows you to manage services using the command line and control services through scripts. Many users choose to conduct some level of automation using the AWS CLI.
@@ -79,3 +79,5 @@ cat ~/.aws/config
 > IMPORTANT: If you are using Event Engine for this workshop, make sure to have the AWS ACCESS KEY ID, AWS SECRET ACCESS KEY, AWS DEFAULT REGION match the temporary account’s credentials from the Console page on Event Engine. The AWS SESSION TOKEN is unique for each Event Engine session (this session token is NOT APPLICABLE for an original AWS account).
 
 We now successfully configured who you are. Next, we will configure your permission to access the resources that you are requesting (i.e. with a “named profile”) to interact with Amazon S3.
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)

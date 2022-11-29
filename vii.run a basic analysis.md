@@ -1,4 +1,6 @@
-# RUN A BASIC ANALYSIS
+# VII. RUN A BASIC ANALYSIS
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)
 
 # A. BACTERIAL GENOME DATA
 We will now run some sample code.
@@ -123,3 +125,5 @@ ls
 You should see a file called ENSG00000107104_CPM.pdf.
 ```
 Congratulations, you now know how to run transcript discovery and quantification using R on an AWS EC2 instance. Next, we’ll look at how to make an AMI from your own machine.
+
+[LINK TO BACK TO ALL WORKSHOPS](./workshop.md)
